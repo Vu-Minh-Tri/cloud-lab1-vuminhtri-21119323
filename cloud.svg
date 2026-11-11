@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Illustration of a cloud above a server">
+<rect width="400" height="240" fill="#e8f1f5"/>
+<circle cx="320" cy="55" r="28" fill="#f2b84b"/>
+<g fill="#ffffff" stroke="#2f6f8f" stroke-width="4">
+<path d="M110 150a38 38 0 0 1 8-75 52 52 0 0 1 98-8 44 44 0 0 1 60 43 34 34 0 0 1-6 40z"/></g>
+<rect x="165" y="170" width="70" height="46" rx="6" fill="#2f6f8f"/>
+<circle cx="180" cy="185" r="4" fill="#f2b84b"/><circle cx="180" cy="203" r="4" fill="#9fd0a8"/>
+<path d="M200 168v-18" stroke="#2f6f8f" stroke-width="4"/>
+</svg>
