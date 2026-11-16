@@ -96,7 +96,7 @@ h2 {
 .hero {
   display: block;
   width: 100%;
-  height: auto; /* keeps the 400x240 aspect ratio from the width/height attributes */
+  height: auto; /* preserves the SVG's intrinsic aspect ratio */
   border-radius: 8px;
   margin-top: 1rem;
 }
