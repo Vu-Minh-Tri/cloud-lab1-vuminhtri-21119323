@@ -94,8 +94,9 @@ h2 {
 }
 
 .hero {
+  display: block;
   width: 100%;
-  height: auto;
+  height: auto; /* keeps the 400x240 aspect ratio from the width/height attributes */
   border-radius: 8px;
   margin-top: 1rem;
 }
