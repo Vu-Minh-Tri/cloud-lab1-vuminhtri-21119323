@@ -1,0 +1,7 @@
+VM Name: CloudLab03-Ubuntu-21119323
+Guest OS: Ubuntu Server LTS [exact version]
+vCPU: 2
+RAM: 2048 MB
+Virtual Disk: 20 GB, dynamically allocated
+Network Adapter 1: NAT
+Snapshot: BeforeChange
